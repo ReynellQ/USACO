@@ -2,4 +2,6 @@
 *.out
 main.exe
 Main.java
+Main.*
+main.*
 **/.vscode/
